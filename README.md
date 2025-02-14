@@ -8,10 +8,28 @@ Este repositório contém uma coleção de pequenos programas desenvolvidos em *
 
 Os programas contidos neste repositório realizam tarefas diversas, como:
 - **Cálculo do faturamento diário** a partir de um arquivo JSON.
+  - **Faturamento:**
+    - Este código em C# tem o objetivo de analisar dados de faturamento contidos em um arquivo JSON chamado "faturamento.json".
+    - O código é útil para análises financeiras básicas, como identificar padrões de faturamento e detectar períodos de baixa ou alta receita.
+
 - **Verificação de números na sequência de Fibonacci**.
+  - **Fibonacci:**
+    - Este código em C# verifica se um número pertence à sequência de Fibonacci.
+    - Esse método é eficiente, pois evita a necessidade de gerar toda a sequência de Fibonacci para verificar a pertença do número.
+
 - **Inversão de strings**.
+  - **InvertString:**
+    - Este código em C# tem o objetivo de inverter uma string digitada pelo usuário.
+    - Este código implementa a inversão manualmente usando um loop, sem depender de métodos embutidos como Array.Reverse().
+
 - **Cálculo do percentual de faturamento por estado**.
+  - **PercentualFaturamento:**
+    - Este código em C# calcula e exibe o percentual de representação do faturamento por estado.
+    - Esse código é útil para análises financeiras e de mercado, permitindo visualizar a participação relativa de cada estado no faturamento total.
+
 - **Soma de números consecutivos até um limite definido**.
+  - **Soma:**
+    - Este código em C# tem o objetivo de calcular a soma dos números de 1 até 13 utilizando um loop while.
 
 Cada programa está em um arquivo separado e pode ser executado individualmente.
 
