@@ -48,3 +48,40 @@ Para executar os programas, você precisará ter instalado:
 1. Clone este repositório em sua máquina:
    ```sh
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+## 💻 Uso  
+
+Para executar um dos programas, navegue até o diretório do código desejado e execute:
+
+    ```
+    cd NomeDoPrograma
+    dotnet run
+    ```
+
+Exemplo para rodar o programa de Fibonacci:
+
+    ```
+    cd Fibonacci
+    dotnet run
+    ```
+
+Caso esteja utilizando o Visual Studio, basta abrir a solução e executar o código desejado.
+
+## 🤝 Contribuição
+Sinta-se à vontade para contribuir com melhorias e novos programas! Para contribuir:
+
+1. Faça um fork do repositório.
+
+2. Crie uma branch com sua melhoria (git checkout -b minha-melhoria).
+
+3. Commit suas alterações (git commit -m 'Adicionei um novo programa').
+
+4. Faça um push para a branch (git push origin minha-melhoria).
+
+5. Abra um Pull Request.
+
+## 📜 Licença
+
+Este projeto é de código aberto e está licenciado sob a MIT License.
+
+📌 Desenvolvido com ❤️ por Alexandre Santos
