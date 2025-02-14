@@ -4,6 +4,18 @@ Este repositório contém uma coleção de pequenos programas desenvolvidos em *
 
 ---
 
+## 📌 Índice
+- [📜 Descrição](#-descrição)
+- [🚀 Recursos](#-recursos)
+- [🛠 Tecnologias](#-tecnologias)
+- [✅ Pré-requisitos](#-pré-requisitos)
+- [💾 Instalação](#-instalação)
+- [▶️ Uso](#-uso)
+- [🤝 Contribuição](#-contribuição)
+- [📄 Licença](#-licença)
+
+---
+
 ## 📜 Descrição
 
 Os programas contidos neste repositório realizam tarefas diversas, como:
