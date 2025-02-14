@@ -13,8 +13,8 @@ Os programas contidos neste repositório realizam tarefas diversas, como:
     - O código é útil para análises financeiras básicas, como identificar padrões de faturamento e detectar períodos de baixa ou alta receita.
 
 - **Verificação de números na sequência de Fibonacci**.
-  - ** Este código em C# verifica se um número pertence à sequência de Fibonacci. **
-  - ** Esse método é eficiente, pois evita a necessidade de gerar toda a sequência de Fibonacci para verificar a pertença do número. **
+  - Este código em C# verifica se um número pertence à sequência de Fibonacci.
+  - Esse método é eficiente, pois evita a necessidade de gerar toda a sequência de Fibonacci para verificar a pertença do número.
 
 - **Inversão de strings**.
   - **InvertString:**
