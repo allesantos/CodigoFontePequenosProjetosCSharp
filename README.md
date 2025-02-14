@@ -32,7 +32,7 @@ Cada programa está em um arquivo separado e pode ser executado individualmente.
 
 ## 🚀 Recursos
 
-- Código bem estruturado e comentado.
+- Código bem estruturado.
 - Soluções eficientes para problemas comuns de programação.
 - Fácil execução e modificação para fins de aprendizado.
 - Uso de bibliotecas padrão do .NET.
