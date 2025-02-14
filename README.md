@@ -46,6 +46,7 @@ Para executar os programas, você precisará ter instalado:
 ## 💾 Instalação
 
 1. Clone este repositório em sua máquina:
+   
    ```sh
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
