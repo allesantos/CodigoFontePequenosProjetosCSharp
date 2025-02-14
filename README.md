@@ -53,17 +53,17 @@ Para executar os programas, você precisará ter instalado:
 
 Para executar um dos programas, navegue até o diretório do código desejado e execute:
 
-    ```
+   ```sh
     cd NomeDoPrograma
     dotnet run
-    ```
+   ```
 
 Exemplo para rodar o programa de Fibonacci:
 
-    ```
+   ```sh
     cd Fibonacci
     dotnet run
-    ```
+   ```
 
 Caso esteja utilizando o Visual Studio, basta abrir a solução e executar o código desejado.
 
