@@ -108,6 +108,6 @@ Sinta-se à vontade para contribuir com melhorias e novos programas! Para contri
 
 ## 📜 Licença
 
-Este projeto é de código aberto e está licenciado sob a MIT License.
+Os projetos deste repositório são de código aberto e está licenciado sob a MIT License.
 
 📌 Desenvolvido com ❤️ por Alexandre Santos
